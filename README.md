@@ -10,7 +10,7 @@
 - It use Java standard library which Java API for Date and Time and provide functionality for working with dates and times
 
 ## Output of Scenarios 1: Vehicle exit within 15 minutes.
-![Screenshot (880)](https://github.com/Maxs19711/TechnicalAssesment/assets/132529355/32f8b1a3-504a-467f-97af-f9c81fac6372)
+![Screenshot (887)](https://github.com/Maxs19711/TechnicalAssesment/assets/132529355/fa8bf18a-4e48-4e6f-aeb4-014d0ca864bc)
 - Reg No:         SU 123 K
 - In:             2021-10-25 08:16
 - Out:            2021-10-25 08:27
@@ -18,7 +18,7 @@
 - Amount to paid: $0.0
 
 ## Output of Scenarios 2: Vehicle exit after 15 minutes and within grace period minutes
-![Screenshot (881)](https://github.com/Maxs19711/TechnicalAssesment/assets/132529355/e4291b64-f663-4c82-a4bb-3132ce935b03)
+![Screenshot (888)](https://github.com/Maxs19711/TechnicalAssesment/assets/132529355/1d623b78-a1a2-47ac-a32b-1179e2038f63)
 - Reg No:         SN 3453 G
 - In:             2021-10-25 08:16
 - Out:            2021-10-25 12:19 
