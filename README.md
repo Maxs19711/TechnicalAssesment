@@ -5,6 +5,8 @@
   -  First method is void Total() and used to return the data of duration, date checked in and out and amount to pay.
   -  second method is void calculateTotal() and used to calculate the amount to pay.
 - The two method is being called inside main method including the Parking.java class.
+- It also use Java Swing framework for displaying dialog boxes and obtaining user input.
+- It use Java standard library which Java API for Date and Time and provide functionality for working with dates and times
 
 ## Output of Scenarios 1: Vehicle exit within 15 minutes.
 ![Screenshot (880)](https://github.com/Maxs19711/TechnicalAssesment/assets/132529355/28cc7df5-4a95-4171-9eb0-6e97366947a8)
