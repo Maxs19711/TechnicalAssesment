@@ -2,8 +2,8 @@
 - This Technical assesment is created using java programming language and written using vs Code. there are two class of java which is Main.java and Parking.java.
 - For Parking.java, it has setter and getter for the registration number, date check in and out, time check in and out and other method.
 - for Main.java, it has main method to execute the code and two other method.
-  -  First method is void Total() and used to return the data of duration, date checked in and out and amount to pay.
-  -  second method is void calculateTotal() and used to check wheter the date entered is weekday or weekend and then calculate the amount to pay based on the requirement.
+  -  First method is void Total() and used to check whether the date entered is weekday or weekend and then return the date of duration, date checked in and out and then call method of calculateTotal() to calculate amount to pay.
+  -  second method is void calculateTotal() and used to calculate the amount to pay after the Total() method find out whether the date is weekday or weekend.
 - The two method is being called inside main method including the Parking.java class.
 - It also use Java Swing framework for displaying dialog boxes and obtaining user input.
 - It use Java standard library which Java API for Date and Time and provide functionality for working with dates and times
