@@ -1,3 +1,11 @@
+## Description
+- This Technical assesment is created using java programming language and written using vs Code. there are two class of java which is Main.java and Parking.java.
+- For Parking.java, it has setter and getter for the registration number, date check in and out, time check in and out and other method.
+- for Main.java, it has main method to execute the code and two other method.
+  -  First method is void Total() and used to return the data of duration, date checked in and out and amount to pay.
+  -  second method is void calculateTotal() and used to calculate the amount to pay.
+- The two method is being called inside main method including the Parking.java class.
+
 ## Output of Scenarios 1: Vehicle exit within 15 minutes.
 ![Screenshot (880)](https://github.com/Maxs19711/TechnicalAssesment/assets/132529355/28cc7df5-4a95-4171-9eb0-6e97366947a8)
 - Reg No:         SU 123 K
